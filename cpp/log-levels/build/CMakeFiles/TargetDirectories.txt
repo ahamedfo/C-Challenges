@@ -1,0 +1,4 @@
+/Users/ahamedfofana/Exercism/cpp/log-levels/build/CMakeFiles/log-levels.dir
+/Users/ahamedfofana/Exercism/cpp/log-levels/build/CMakeFiles/test_log-levels.dir
+/Users/ahamedfofana/Exercism/cpp/log-levels/build/CMakeFiles/edit_cache.dir
+/Users/ahamedfofana/Exercism/cpp/log-levels/build/CMakeFiles/rebuild_cache.dir
